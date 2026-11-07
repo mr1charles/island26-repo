@@ -38,13 +38,13 @@ Author: mr1charles
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Version: 0.1.0
+Version: 0.2.0
 Installed-Size: 96
-Filename: debs/com.mr1charles.smartsiri_0.1.0_iphoneos-arm.deb
-Size: 20010
-MD5sum: aada03cb2eadb3e6ef89ba646c5706d2
-SHA1: 8b91b9cac7441e0f077eb5882cc0acfd47077f18
-SHA256: fb43022a3fd4fd728ef833cf066e433cdd8fb2cf246327dc0d234c0ed8b6524f
+Filename: debs/com.mr1charles.smartsiri_0.2.0_iphoneos-arm.deb
+Size: 23310
+MD5sum: 0d46a73ec888b777d9030672d21fa407
+SHA1: 181d07a7799e70cd50f2ade93ee337e23d414929
+SHA256: 7b8bd1a532bef723946b2cfe1d3cb52f394b4638ca88742aa8e73487d3e16258
 
 Package: com.mr1charles.splite
 Name: Spotify Lite
