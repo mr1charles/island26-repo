@@ -1,3 +1,19 @@
+Package: com.mr1charles.glasslock
+Name: GlassLock
+Description: Giant condensed clock, glass widgets and glass buttons for the lock screen.
+Maintainer: mr1charles
+Author: mr1charles
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.5.1
+Installed-Size: 128
+Filename: debs/com.mr1charles.glasslock_0.5.1_iphoneos-arm.deb
+Size: 34246
+MD5sum: fee4a39ab5b91825a82c2d7333a030f7
+SHA1: a63c60473bb53c4432c1da33ec5f458dadd01061
+SHA256: 8e6dfe9bc45732d11e9ad48b9d757f41b024f0042aa3d57fc4684f9b3e335850
+
 Package: com.mr1charles.island26
 Name: Island26
 Description: iOS 26 look for iOS 12: Dynamic Island with live activities, liquid-glass Control Center, glass dock, snow, icon styles. Beta.
@@ -14,6 +30,22 @@ MD5sum: b279bbfd37e43270b4eeb7db137dd826
 SHA1: 81a6a0df70c4e293c72de02a7e9124a0797e4905
 SHA256: 0e3fc91c3de592f742545799a3cfacc9e049e3eeda7a4eb0589ec6b7ffc6d935
 
+Package: com.mr1charles.smartsiri
+Name: SmartSiri
+Description: Hold the Home button for an AI assistant that answers questions and controls the phone.
+Maintainer: mr1charles
+Author: mr1charles
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.1.0
+Installed-Size: 96
+Filename: debs/com.mr1charles.smartsiri_0.1.0_iphoneos-arm.deb
+Size: 20010
+MD5sum: aada03cb2eadb3e6ef89ba646c5706d2
+SHA1: 8b91b9cac7441e0f077eb5882cc0acfd47077f18
+SHA256: fb43022a3fd4fd728ef833cf066e433cdd8fb2cf246327dc0d234c0ed8b6524f
+
 Package: com.mr1charles.splite
 Name: Spotify Lite
 Description: Full-screen Spotify web app for iOS 12.
@@ -28,4 +60,19 @@ Size: 11576
 MD5sum: 73c854f41cd8f19c60cdd1f2957e921c
 SHA1: e2b42912283be407d68267a471bbcf0c8c3e8a00
 SHA256: 929768bb13805fb7a87e06af449a28a54b3f04a9483ee8541eb16a2f49691509
+
+Package: com.mr1charles.weblite
+Name: Web Lite
+Description: Full-screen apps for video sites' mobile websites.
+Maintainer: mr1charles
+Author: mr1charles
+Section: Utilities
+Architecture: iphoneos-arm
+Version: 0.1.8
+Installed-Size: 152
+Filename: debs/com.mr1charles.weblite_0.1.8_iphoneos-arm.deb
+Size: 22940
+MD5sum: 302481112a9d57ad031568d34bd1d01f
+SHA1: 4e17b189d012d2c4c1fd490fdc241ede3af43d3e
+SHA256: 7cd7f5f3ae3a99af70de29b1babab64aec33af45a5e0caeee7b4a1a9684643da
 

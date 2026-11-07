@@ -6,12 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: iOS 26 look for old iPhones: Island26 and Spotify Lite
-Date: Sat, 07 Nov 2026 20:37:38 UTC
+Date: Sat, 07 Nov 2026 20:51:19 UTC
 MD5Sum:
- 94043c29e2ec287cc16c87baf0a24222 1028 Packages
- e7cc4cc1fbab2c2cb52e84d870dd42c2 566 Packages.gz
- 934714c74a36da26010f236d02f5d830 637 Packages.bz2
+ 09a7dabd758f0ac1fb079e591d3c951c 2550 Packages
+ 7051464760cf1da6f248011a33912564 1047 Packages.gz
+ 52c9f45ae9e9e774abe110c13637bd52 1156 Packages.bz2
 SHA256:
- 25ec1f37dd8446fe0746baa2cdf71aa82b51122141a55d2c792027bd327442c2 1028 Packages
- 81dd3ad3a2fcd2db62af3d400d3c71b86fbf406a36d79eb0f93616f7eb9ba3cc 566 Packages.gz
- d7eeb358d4517bd0e2cb21de4bce7adb34cc656aa841cc1eee554b187369ae37 637 Packages.bz2
+ 8a8c4d4acd514af8b77baa6d9d5340e09ac4dc318f0b91fc8c9b52e3021a464e 2550 Packages
+ 14d1db03b7b95c5c4a24a026c735eda2d352d1ebd537a20293adc441276ede62 1047 Packages.gz
+ f29a82b40d590af78cc22cbabaaf1bb4ab3449bb3614bcf0cf06efcdc8a6187f 1156 Packages.bz2

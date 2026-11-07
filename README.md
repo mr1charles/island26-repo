@@ -24,5 +24,14 @@ If SpringBoard ever goes into safe mode, remove the package over SSH (`dpkg -r c
 ## Spotify Lite
 A full-screen app around open.spotify.com. On iOS 12 Safari Spotify's web player restricts full-song playback, so expect browsing and limited playback. Not affiliated with Spotify.
 
+## GlassLock
+Lock screen tweak: giant condensed outline clock, glass battery / alarm / weather widgets, glass torch and camera buttons, an unlock clock morph and an LCD always-on display (dimmed backlight, 10 minute limit off the charger, off below 20% battery). Tested on iPhone 6, iOS 12.5.8. It records SpringBoard crashes to `/var/mobile/Library/Logs/GlassLock-crashes.log`. Set `dev` to `true` in `com.mr1charles.glasslock.plist` only if you want the developer command channel.
+
+## SmartSiri
+Hold the Home button for an AI assistant that answers questions and controls the phone, using Groq (`gpt-oss-120b`, `whisper-large-v3-turbo`). **You must supply your own Groq API key**: put it under `apiKey` in `/var/mobile/Library/Preferences/com.mr1charles.smartsiri.plist`. Without a key the Home button behaves normally. Listening uses the microphone; your questions go to Groq.
+
+## Web Lite (YT Lite and TT Lite)
+Full-screen apps around the video sites' mobile websites. YT Lite loads m.youtube.com. TT Lite needs a helper program running on a computer, so it does not work on its own yet.
+
 ## Updating the repo
 Drop new `.deb` files in `debs/`, run `python3 build.py`, commit, push.
