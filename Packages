@@ -1,0 +1,31 @@
+Package: com.mr1charles.island26
+Name: Island26
+Description: iOS 26 look for iOS 12: Dynamic Island with live activities, liquid-glass Control Center, glass dock, snow, icon styles. Beta.
+Maintainer: mr1charles
+Author: mr1charles
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.5.1
+Installed-Size: 112
+Filename: debs/com.mr1charles.island26_0.5.1_iphoneos-arm.deb
+Size: 27446
+MD5sum: b279bbfd37e43270b4eeb7db137dd826
+SHA1: 81a6a0df70c4e293c72de02a7e9124a0797e4905
+SHA256: 0e3fc91c3de592f742545799a3cfacc9e049e3eeda7a4eb0589ec6b7ffc6d935
+
+Package: com.mr1charles.splite
+Name: Spotify Lite
+Description: Full-screen Spotify web app for iOS 12.
+Maintainer: mr1charles
+Author: mr1charles
+Section: Utilities
+Architecture: iphoneos-arm
+Version: 0.1.0
+Installed-Size: 68
+Filename: debs/com.mr1charles.splite_0.1.0_iphoneos-arm.deb
+Size: 11576
+MD5sum: 73c854f41cd8f19c60cdd1f2957e921c
+SHA1: e2b42912283be407d68267a471bbcf0c8c3e8a00
+SHA256: 929768bb13805fb7a87e06af449a28a54b3f04a9483ee8541eb16a2f49691509
+
