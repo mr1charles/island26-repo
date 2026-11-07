@@ -21,9 +21,6 @@ Settings are read from `/var/mobile/Library/Preferences/com.mr1charles.island26.
 
 If SpringBoard ever goes into safe mode, remove the package over SSH (`dpkg -r com.mr1charles.island26`) and respring.
 
-## Spotify Lite
-A full-screen app around open.spotify.com. On iOS 12 Safari Spotify's web player restricts full-song playback, so expect browsing and limited playback. Not affiliated with Spotify.
-
 ## GlassLock
 Lock screen tweak: giant condensed outline clock, glass battery / alarm / weather widgets, glass torch and camera buttons, an unlock clock morph and an LCD always-on display (dimmed backlight, 10 minute limit off the charger, off below 20% battery). Tested on iPhone 6, iOS 12.5.8. It records SpringBoard crashes to `/var/mobile/Library/Logs/GlassLock-crashes.log`. Set `dev` to `true` in `com.mr1charles.glasslock.plist` only if you want the developer command channel.
 

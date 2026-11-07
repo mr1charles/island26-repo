@@ -46,21 +46,6 @@ MD5sum: 0d46a73ec888b777d9030672d21fa407
 SHA1: 181d07a7799e70cd50f2ade93ee337e23d414929
 SHA256: 7b8bd1a532bef723946b2cfe1d3cb52f394b4638ca88742aa8e73487d3e16258
 
-Package: com.mr1charles.splite
-Name: Spotify Lite
-Description: Full-screen Spotify web app for iOS 12.
-Maintainer: mr1charles
-Author: mr1charles
-Section: Utilities
-Architecture: iphoneos-arm
-Version: 0.1.0
-Installed-Size: 68
-Filename: debs/com.mr1charles.splite_0.1.0_iphoneos-arm.deb
-Size: 11576
-MD5sum: 73c854f41cd8f19c60cdd1f2957e921c
-SHA1: e2b42912283be407d68267a471bbcf0c8c3e8a00
-SHA256: 929768bb13805fb7a87e06af449a28a54b3f04a9483ee8541eb16a2f49691509
-
 Package: com.mr1charles.weblite
 Name: Web Lite
 Description: Full-screen apps for video sites' mobile websites.
